@@ -44,7 +44,8 @@ while True:
 
 ```
 ## OUTPUT
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/816997d5-b4f4-4719-aad0-14df6203827c" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/8fb930a4-4a26-4901-80ab-e3126575d978" />
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
